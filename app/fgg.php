@@ -3,13 +3,5 @@
  * Created by PhpStorm.
  * User: Slava
  * Date: 27.10.2018
- * Time: 20:20
+ * Time: 20:22
  */
-
-namespace App;
-
-
-class dfdfd
-{
-
-}
